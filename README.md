@@ -23,3 +23,5 @@ Through the discord python library, the code is able to activate a discord bot a
 ![Screenshot](./image.png)
 
 Here is the link to the transaction of the screenshot: https://chainz.cryptoid.info/smly/tx.dws?cce530367656667c47b09c5066c5e88745264ddcb3cc47a926ea9887966aaf5f.htm
+
+Here is the discord bot we used when testing the functionalities of the code: https://discord.com/developers/applications/1041767526700433559/information
