@@ -6,7 +6,7 @@ import os
 
 
 def run_discord_bot():
-    TOKEN = 'your token here' #you need to place your discord bot token here
+    TOKEN = 'MTA0MTc2NzUyNjcwMDQzMzU1OQ.Gkyq7r.Uq-6sDgBVQMf_R-Y1l2KaPGrwjcuIKNb8dXNaE' #you need to place your discord bot token here
     bot = commands.Bot(intents=discord.Intents.all(),command_prefix='!')
 
     #help command
