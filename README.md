@@ -2,7 +2,7 @@
 
 ## How does it work?
 
-The bot is written in python and reacts to commands given through discord. You can command the bot to tip a specific SmileyCoin address through the command:
+The bot is written in python and reacts to commands given through discord. The idea behind the bot is that you need to host the bot in order to tip from your own wallet. You have to be the host of the bot to tip You can command the bot to tip a specific SmileyCoin address through the command:
 ```
 !sendtoaddress [recievers address] [number of smileycoins you want to tip]
 ```
@@ -24,4 +24,6 @@ Through the discord python library, the code is able to activate a discord bot a
 
 Here is the link to the transaction of the screenshot: https://chainz.cryptoid.info/smly/tx.dws?cce530367656667c47b09c5066c5e88745264ddcb3cc47a926ea9887966aaf5f.htm
 
-Here is the discord bot we used when testing the functionalities of the code: https://discord.com/developers/applications/1041767526700433559/information
+Here is the discord bot we used when testing the functionalities of the code:
+
+![Bot](./bot.png)
